@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ProCoderSravani</h1>
 <h3 align="center">A passionate Python DataScience</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=400x300&vertical=top">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/3853792/screenshots/13895772/media/adafde56c266d90cfb7f26f328f18b6b.png?compress=1&resize=400x300">
 
 - 🔭 I’m currently working on **Python Data Science**
 
